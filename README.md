@@ -1,2 +1,14 @@
 # Requirements
-The things you will need to download
+
+
+## Python 3
+
+### Kivy
+Kivy is a library for python
+https://kivy.org/#home
+
+
+## Atom Text Editor
+
+## Github Desktop
+
